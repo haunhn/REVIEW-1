@@ -50,7 +50,7 @@
     <!-- HEADER -->
     <header class="text-center max-w-5xl mx-auto mb-8">
         <div class="inline-block bg-yellow-300 border-4 border-white px-6 py-2 rounded-full cute-shadow mb-3 floating">
-            <span class="text-xl md:text-2xl font-bold text-pink-600">✨ Lớp Học Vui Nhộn Của Cô Nancy ✨</span>
+            <span class="text-xl md:text-2xl font-bold text-pink-600">✨ Lớp Học Vui Nhộn Của Cô Nora ✨</span>
         </div>
         <h1 class="text-4xl md:text-6xl font-extrabold text-purple-700 drop-shadow-md mb-2">
             🚀 Grade 3 English Super World 🌟
